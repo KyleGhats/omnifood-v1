@@ -10,9 +10,7 @@ This webpage was built with Jonas Schmedtmann's final course, "Design and Develo
 
 ## A. Tech: ## 
 
-- HTML5
-- CSS3 compiled from SCSS
-- JavaScript
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
 
 ## B. Contact Me: ## 
 
