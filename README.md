@@ -5,7 +5,7 @@ This webpage was built with Jonas Schmedtmann's final course, "Design and Develo
 
 ## Web Page preview: ##
 
- https://kyleghats.github.io/omnifood-v1/
+<a href="https://kyleghats.github.io/omnifood-v2/"><strong>➥ View Preview</strong></a>
  
 
 ## A. Tech: ## 
